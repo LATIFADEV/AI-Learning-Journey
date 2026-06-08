@@ -1,0 +1,19 @@
+# Environnement Python
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+.jupyter_runtime/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Variables d'environnement
+.env
+
+# Modèles entraînés
+*.pkl
+
+# VS Code
+.vscode/
